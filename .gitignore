@@ -1,7 +1,5 @@
-*.*
+*/
+.DS_Store
 !.gitattributes
 !.gitignore
 !readme.md
-!.gitkeep
-!*.py
-!*.ipnb
